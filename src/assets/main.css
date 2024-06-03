@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding:0;
+  }
+  
+  body {
+    width:100%;
+    min-height: 100vh;
+    background-image: url('img/vue_weather_app_bg.png');
+    background-size:cover;
+    display: flex;
+    justify-content: center;
+    align-items:  center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.5em;
+  }
